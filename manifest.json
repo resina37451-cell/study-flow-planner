@@ -1,0 +1,10 @@
+{
+  "id": "study-flow-planner",
+  "name": "Study Flow Planner",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A study planner with weekly/monthly timeline, time slots from 5:00 to 23:00. Supports Portuguese and English.",
+  "author": "resina37451",
+  "authorUrl": "https://github.com/resina37451-cell",
+  "isDesktopOnly": false
+}
